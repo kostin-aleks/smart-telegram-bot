@@ -1,0 +1,4 @@
+aiogram==3.25.0
+asyncpg
+APScheduler==3.11.2
+python-dotenv==1.2.1
